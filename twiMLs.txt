@@ -1,0 +1,17 @@
+<!-- NoSayTwiMLBin -->
+
+<Response>
+  <Hangup></Hangup>
+</Response>
+
+<!-- AnotherTwiMLBin -->
+
+<Response>
+  <Message>MESSAGEY!</Message>
+</Response>
+
+<!-- SomeTwiMLBin -->
+
+<Response>
+	<Say>Hi</Say>
+</Response>
